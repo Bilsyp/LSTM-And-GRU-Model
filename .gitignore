@@ -1,6 +1,7 @@
 .venv
-data
+datatest
 images
 *.pdf
 *.png
-*.csv
+# ./data.csv
+test
